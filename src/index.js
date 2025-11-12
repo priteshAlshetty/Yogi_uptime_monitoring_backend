@@ -9,6 +9,10 @@ const dashboardNewRoutes = require("./routes/dashboard.newRoutes.js")
 dotenv.config();
 // const pages = require("./routes/pages.routes.js");
 
+
+// testing
+
+
 const app = express();
 
 app.use(cors());
